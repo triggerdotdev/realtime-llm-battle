@@ -1,5 +1,7 @@
 ## Trigger.dev Realtime streams Demo
 
+https://github.com/user-attachments/assets/a6ad8ca4-b1d2-4fee-b018-722a248b6353
+
 This demo shows off a variety of features of [Trigger.dev Realtime streams](https://trigger.dev/docs/realtime) and using our React hooks to trigger tasks from the frontend.
 
 ## Getting Started
